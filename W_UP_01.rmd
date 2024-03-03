@@ -91,3 +91,5 @@ The p-value is 0.000009421 < 0.05 so we reject $H_0$
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+
+The original question was, Is there a difference in average pushups that can be done by players in SKILL and LINE positions. We did graphical and numerical summary tables that shows that SKILL players are able to do more pushups than players in LINE position. After the we gathered all of the data and rejecting the null hypothesis and since the p-value is less than 0.05 there is no difference. 
